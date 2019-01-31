@@ -34,11 +34,9 @@
         {{t 'Sessions'}}
       {{/link-to}}
     {{/if}}
-    {{#if isSchedulePublished}}
-      {{#link-to 'public.schedule' class='item'}}
-        {{t 'Schedule'}}
-      {{/link-to}}
-    {{/if}}  
+    {{#link-to 'public.schedule' class='item'}}
+      {{t 'Schedule'}}
+    {{/link-to}}
     {{#if shouldShowCallforSpeakers }}
       {{#link-to 'public.cfs' class='item'}}
         {{t 'Call for Speakers'}}
