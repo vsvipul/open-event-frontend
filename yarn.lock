@@ -9713,9 +9713,10 @@ object-keys@^1.0.12:
   resolved "https://registry.yarnpkg.com/object-keys/-/object-keys-1.1.0.tgz#11bd22348dd2e096a045ab06f6c85bcc340fa032"
   integrity sha512-6OO5X1+2tYkNyNEx6TsCxEqFfRWaqx6EtMiSbGrw8Ob8v9Ne+Hl8rBAgLBZn5wjEz3s/s6U1WXFUFOcxxAwUpg==
 
-object-to-formdata@^1.4.3:
-  version "1.4.3"
-  resolved "https://registry.yarnpkg.com/object-to-formdata/-/object-to-formdata-1.4.3.tgz#ad1988e5049c8e6b0660a28ed0a5c99dc9ff89f9"
+object-to-formdata@^1.6.4:
+  version "1.6.4"
+  resolved "https://registry.yarnpkg.com/object-to-formdata/-/object-to-formdata-1.6.4.tgz#ee2c3693ae6829ce8847f77eff7a3d8289c843e1"
+  integrity sha512-1XZmRyR6yBhDxogp+9Vi00FFDtCah8x8FGc98lgvBzZlGeQGxj00pKmWHtzl7vrSpqPx5zXVb/XbiP5ZS2karg==
 
 object-visit@^1.0.0:
   version "1.0.1"
